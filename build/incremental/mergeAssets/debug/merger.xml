@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAndroidSupportAppcompatV71800.aar" >
+        <source path="E:\android_workspace\shorthandProject\Shorthand\build\exploded-bundles\ComAndroidSupportAppcompatV71800.aar\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="E:\android_workspace\shorthandProject\Shorthand\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\android_workspace\shorthandProject\Shorthand\src\debug\assets" />
+    </dataSet>
+
+</merger>
