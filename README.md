@@ -1,5 +1,6 @@
 # Memory
 a memory game demo on Android 
+
 1.使用android studio 开发；
 
 2.界面：采用TableLayout布局，第一行放得分，后面几行放方格；
